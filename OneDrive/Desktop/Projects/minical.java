@@ -6,7 +6,6 @@ public class minical {
         double num1, num2;
         char operator;
 
-        System.out.println("----- Mini Calculator -----");
         System.out.print("Enter first number: ");
         num1 = sc.nextDouble();
 
